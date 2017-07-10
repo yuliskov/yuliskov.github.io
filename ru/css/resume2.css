@@ -1,0 +1,63 @@
+/* Table styling */
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 0px;
+  padding-right: 13px;
+  border: 0px solid #ddd;
+  vertical-align: top;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 0px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #fff;
+}
+
+td:first-child {
+    min-width: 150px;
+}
+
+/* <span class='h2'>text</span> */
+/*.h2 {
+    padding-bottom: 0.3em;
+    font-size: 1.5em;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}*/
+
+/* END Table styling */
+
+/* Print Styles */
+@media print {
+    .container > nav, .container > footer {
+        display: none;
+    }
+}
+
+.markdown-body p {
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+
+#my-photo {
+    height: 100px;
+    float: left;
+    margin-right: 16px;
+    margin-top: 10px;
+}
+
+.clear {
+    clear: both;
+}
