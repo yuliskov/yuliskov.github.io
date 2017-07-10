@@ -52,13 +52,13 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Provide tests
 - Android SDK, WebView, Crosswalk, JUnit, browser scripts
 
-**Movian, 2016-2017, Code contributor**  
+**Movian, 2016-2017, Code Contributor**  
 *Movian is popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))*
 - Adopt Movian for Android tv boxes' remote controller
 - Fix crashes when app moves into background
 - Android SDK, native libs
 
-**Crosswalk, 2016-2017, Code contributor**  
+**Crosswalk, 2016-2017, Code Contributor**  
 *Crosswalk is WebView replacement for Android ([https://crosswalk-project.org](https://crosswalk-project.org))*
 - Improve armv8l architecture detection
 - Android SDK
@@ -69,7 +69,7 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Develop overall look
 - Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
-**Gnome-Commander, 2012-2014, Code contributor**  
+**Gnome-Commander, 2012-2014, Code Contributor**  
 *Two panel file manager for GNOME desktop ([https://gcmd.github.io](https://gcmd.github.io))*  
 - Implement multi-tab interface
 - GNOME libs
@@ -90,4 +90,4 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 ## Interests
 
 - Digg in the Linux distros like Gentoo, Debian, Linux Mint, Ubuntu
-- Decompile and hack Android apps by editing Dalvik byte-code
+- Decompile and hack Android apps, manual edit Dalvik byte-code
