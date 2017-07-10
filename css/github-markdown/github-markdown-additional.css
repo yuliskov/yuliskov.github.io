@@ -1,0 +1,15 @@
+.horizontal-menu a { text-decoration: none; color: #999; }
+.horizontal-menu a:hover { text-decoration: underline; }
+
+.horizontal-menu p, .horizontal-menu ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+.horizontal-menu ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+.horizontal-menu ul li { display: inline; margin-right: 20px; }
+footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+
+/* Blog */
+ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts li { list-style: none; }
+
+img {
+	max-width: 100%;
+}

@@ -1,0 +1,11 @@
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+p, ul { font-size: inherit; line-height: inherit; color: #333; }
+
+h1, h2, h3, h4 { font-size: inherit; margin-bottom: 0.5em; margin-top: 0.5em;}
+
+ul { margin-bottom: 0px; margin-top: 0px; }
+
