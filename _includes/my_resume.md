@@ -27,6 +27,7 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - **Design**: OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
 - **Networking**: TCP/IP, OSI
 - **Scripting**: Bash, Batch
+- **VCS**: Git, SVN
 - **Languages**: English (intermediate), Ukrainian (native)
 
 ## Experience
