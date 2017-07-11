@@ -51,6 +51,12 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Provide tests
 - Android SDK, WebView, Crosswalk, JUnit, browser scripts
 
+**PROMETHEUS, 2015-..., Code Contributor**  
+*Bunch of tweaks for rt-n56u (Padavan) router's firmware ([http://prometheus.freize.net](http://prometheus.freize.net))*
+- Add theme switch feature for web-ui
+- Support number of third-party themes
+- Plain JavaScript, jQuery
+
 **Movian, 2016-2017, Code Contributor**  
 *Movian is popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))*
 - Adopt Movian for Android tv boxes' remote controller
