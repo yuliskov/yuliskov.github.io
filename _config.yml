@@ -13,8 +13,8 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
   # - jekyll-multiple-languages-plugin
-  # - jekyll-seo-tag
-  # - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-sitemap
 languages: ["en", "ru"]
 exclude:
   - site_*.bat
