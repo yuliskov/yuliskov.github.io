@@ -9,7 +9,7 @@ name: Yurii Liskov
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
-  # - jekyll-multiple-languages-plugin
+  - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
   - jekyll-sitemap
 languages: ["en", "ru"]
@@ -19,7 +19,7 @@ exclude:
   - notes.txt
   - "*.bak*"
   - "*.tmp*"
-  - "*.1"
+  - "*.gen"
 # exclude_from_localization:
 #   - _posts
 root_url: https://yuliskov.github.io

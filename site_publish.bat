@@ -6,7 +6,7 @@ chcp 65001
 cd /d "%~dp0"
 REM rmdir _site /s /q
 call jekyll build
-copy /y README.md.1 _site\README.md
+copy /y README.md.gen _site\README.md
 REM git --git-dir=.git --work-tree=_site add --all
 REM git --git-dir=.git --work-tree=_site commit -m "autogen: update site"
 REM git --git-dir=.git --work-tree=_site push
