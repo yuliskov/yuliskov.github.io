@@ -31,6 +31,11 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 
 ## Experience
 
+**DRPSK, 2010-2016, System Administrator**
+- Support large number of PC
+- Handle network related things like printing, sharing etc
+- Windows, Linux
+
 **LeanKey Keyboard, 2016-..., Developer**  
 *Keyboard for Android tv boxes ([https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard))*
 - Adopt to popular tv boxes like MiBox, FireTV etc
@@ -56,12 +61,10 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Improve armv8l architecture detection
 - Android SDK
 
-**React LocalTodos, 2017-..., Developer**  
-*Showcase of popular technologies that used with React*
-- React/Redux/Webpack usage
-- Unit testing with Jest/Enzyme
-- Localization via React Intl
-- LocalStorage middleware
+**Gnome-Commander, 2012-2014, Code Contributor**  
+*Two panel file manager for GNOME desktop ([https://gcmd.github.io](https://gcmd.github.io))*  
+- Implement multi-tab interface
+- GNOME libs
 
 **ArtPortfolio, 2013-2014, Developer**  
 *Personal site that serves as portfolio for graphic artist ([http://nikitaliskov.com](http://nikitaliskov.com))*  
@@ -69,15 +72,12 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Develop overall look
 - Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
-**Gnome-Commander, 2012-2014, Code Contributor**  
-*Two panel file manager for GNOME desktop ([https://gcmd.github.io](https://gcmd.github.io))*  
-- Implement multi-tab interface
-- GNOME libs
-
-**DRPSK, 2010-2016, System Administrator**
-- Support large number of PC
-- Handle network related things like printing, sharing etc
-- Windows, Linux
+**React LocalTodos, 2017-..., Developer**  
+*Showcase of popular technologies that used with React*
+- React/Redux/Webpack usage
+- Unit testing with Jest/Enzyme
+- Localization via React Intl
+- LocalStorage middleware
 
 ## Education
 
