@@ -10,5 +10,6 @@ This site uses Jekyll for content generation.
 
 **In the project directory, run:**
 ```console
+$ gem install jekyll-seo-tag jekyll-sitemap
 $ jekyll serve --watch
 ```
