@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Yuriy Liskov's Blog</title>
+ <title>Yurii Liskov's Blog</title>
  <link href="https://yuliskov.github.io/blog/atom.xml" rel="self"/>
  <link href="https://yuliskov.github.io/blog"/>
- <updated>2017-07-11T17:50:05+03:00</updated>
+ <updated>2017-07-11T23:35:29+03:00</updated>
  <id>https://yuliskov.github.io/blog</id>
  <author>
-   <name>Yuriy Liskov</name>
+   <name>Yurii Liskov</name>
    <email>yuliskov@gmail.com</email>
  </author>
 
