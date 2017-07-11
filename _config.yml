@@ -1,8 +1,20 @@
-name: Yuriy Liskov
+# Begin SEO tags
+baseurl: 
+baseTitle: Yurii Lyskov
+excerpt_separator: <!--more-->
+title: Yurii Lyskov's Personal Site
+description: Some funny stuff about me
+url: https://yuliskov.github.io
+author: Yurii Lyskov
+logo: /img/my_photo2.png
+# End SEO tags
+name: Yurii Liskov
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
   # - jekyll-multiple-languages-plugin
+  # - jekyll-seo-tag
+  # - jekyll-sitemap
 languages: ["en", "ru"]
 exclude:
   - site_*.bat
