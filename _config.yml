@@ -11,5 +11,7 @@ exclude:
   - "*.bak*"
   - "*.tmp*"
   - "*.1"
-exclude_from_localization:
-  - _posts
+# exclude_from_localization:
+#   - _posts
+root_url: https://yuliskov.github.io
+email: yuliskov@gmail.com
