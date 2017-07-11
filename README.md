@@ -10,6 +10,5 @@ This site uses Jekyll for content generation.
 
 **In the project directory, run:**
 ```console
-$ gem install jekyll-multiple-languages-plugin
-$ site_run.bat
+$ jekyll serve --watch
 ```
