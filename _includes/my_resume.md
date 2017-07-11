@@ -89,5 +89,5 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 
 ## Interests
 
-- Digg in the Linux distros like Gentoo, Debian, Linux Mint, Ubuntu
+- Digg into the Linux distros like Gentoo, Debian, Linux Mint, Ubuntu
 - Decompile and hack Android apps, manual edit Dalvik byte-code
