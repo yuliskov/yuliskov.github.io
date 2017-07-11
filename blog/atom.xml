@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Hank Quinlan's Blog</title>
- <link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
- <link href="http://hankquinlan.github.io/blog"/>
- <updated>2017-07-11T17:21:21+03:00</updated>
- <id>http://hankquinlan.github.io/blog</id>
+ <title>Yuriy Liskov's Blog</title>
+ <link href="https://yuliskov.github.io/blog/atom.xml" rel="self"/>
+ <link href="https://yuliskov.github.io/blog"/>
+ <updated>2017-07-11T17:33:29+03:00</updated>
+ <id>https://yuliskov.github.io/blog</id>
  <author>
-   <name>Hank Quinlan</name>
-   <email>hankquinlanhub@gmail.com</email>
+   <name>Yuriy Liskov</name>
+   <email>yuliskov@gmail.com</email>
  </author>
 
  
  <entry>
    <title>This is an template post</title>
-   <link href="http://hankquinlan.github.io/blog/2014/04/30/template-post"/>
+   <link href="https://yuliskov.github.io//blog/2014/04/30/template-post"/>
    <updated>2014-04-30T00:00:00+03:00</updated>
-   <id>http://hankquinlan.github.io//blog/2014/04/30/template-post</id>
+   <id>https://yuliskov.github.io//blog/2014/04/30/template-post</id>
    <content type="html">&lt;h1 id=&quot;this-is-an-template-post&quot;&gt;This is an template post&lt;/h1&gt;
 </content>
  </entry>
