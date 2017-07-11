@@ -14,14 +14,7 @@
 
 ## Summary
 
-I'm a system administrator with six years of experience plus more than five years of amateur programming.
-
-This includes main aspects of development:
-- Initial analysis of use cases
-- Front-end web-based development
-- Server-side development
-- Unit testing
-
+I'm a system administrator with six years of experience plus more than five years of amateur programming.  
 Currently, I focused primarily on Java and related technologies as well as on Front-end development fields.
 
 ## Skills
@@ -62,6 +55,13 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 *Crosswalk is WebView replacement for Android ([https://crosswalk-project.org](https://crosswalk-project.org))*
 - Improve armv8l architecture detection
 - Android SDK
+
+**React LocalTodos, 2017-..., Developer**  
+*Showcase of popular technologies that used with React*
+- React/Redux/Webpack usage
+- Unit testing with Jest/Enzyme
+- Localization via React Intl
+- LocalStorage middleware
 
 **ArtPortfolio, 2013-2014, Developer**  
 *Personal site that serves as portfolio for graphic artist ([http://nikitaliskov.com](http://nikitaliskov.com))*  

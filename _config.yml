@@ -2,7 +2,7 @@ name: Yuriy Liskov
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
-  - jekyll-multiple-languages-plugin
+  # - jekyll-multiple-languages-plugin
 languages: ["en", "ru"]
 exclude:
   - site_*.bat

@@ -4,7 +4,7 @@ REM http://joseoncode.com/2011/11/27/solving-utf-problem-with-jekyll-on-windows/
 chcp 65001
 
 cd /d "%~dp0"
-rmdir _site /s /q
+REM rmdir _site /s /q
 call jekyll build
 copy /y README.md.1 _site\README.md
 REM git --git-dir=.git --work-tree=_site add --all
