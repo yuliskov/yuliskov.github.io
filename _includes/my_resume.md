@@ -55,7 +55,9 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 *Bunch of tweaks for rt-n56u (Padavan) router's firmware ([http://prometheus.freize.net](http://prometheus.freize.net))*
 - Add theme switch feature for web-ui
 - Support number of third-party themes
-- Plain JavaScript, jQuery
+- Develop Local Entware plugin
+- Support Tor plugin
+- Plain JavaScript, jQuery, Bash
 
 **Movian, 2016-2017, Code Contributor**  
 *Movian is popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))*
