@@ -81,7 +81,7 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Develop overall look
 - Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
-**React LocalTodos, 2017-..., Developer**  
+**React Hot Usage Example, 2017-..., Developer**  
 *Showcase of popular technologies that used with React ([http://yuliskov.github.io/react-localtodos](http://yuliskov.github.io/react-localtodos))*
 - React/Redux/Webpack usage
 - Unit testing with Jest/Enzyme
