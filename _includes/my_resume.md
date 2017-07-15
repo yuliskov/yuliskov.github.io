@@ -46,7 +46,7 @@ Keyboard for Android tv boxes ([https://play.google.com/store/apps/details?id=or
 
 **Smart YouTube TV, 2016-..., Developer**  
 YouTube client for Android tv boxes ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
-- Develop agile object-oriented architecture
+- Develop object-oriented architecture
 - Adopt to popular tv boxes like MiBox, FireTV etc
 - Provide tests
 - Android SDK, WebView, Crosswalk, JUnit, browser scripts
