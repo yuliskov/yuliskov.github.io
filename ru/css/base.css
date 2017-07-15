@@ -1,33 +1,34 @@
-body { margin: 60px auto; width: 70%; }
+/* Main menu */
 
-nav a { text-decoration: none; color: #999; }
-nav a:hover { text-decoration: underline; }
+.horizontal-menu a { text-decoration: none; color: #999; }
+.horizontal-menu a:hover { text-decoration: underline; }
 
-nav p, nav ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-
-/*h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-h1 { font-size: 3em;  }
-h2 { font-size: 2.7em; }
-h3 { font-size: 2.3em; }
-h4 { font-size: 1.9em; }*/
-
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
-
+.horizontal-menu p, .horizontal-menu ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+.horizontal-menu ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+.horizontal-menu ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
-/* Blog */
-nav ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
-nav ul.posts li { list-style: none; }
+/* End Main menu */
 
-/* CV */
-.cv { margin: 0px 0px 60px; }
-.cv h1 { font-size: 3em; }
-.cv h2 { font-size: 2em; }
-.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.cv address, .cv p { font-size: 1.2em; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+/* Blog */
+
+ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts li { list-style: none; }
 
 img {
 	max-width: 100%;
 }
+
+/* End Blog */
+
+/* Protect e-mail */
+
+.obfuscate {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    text-align: left;
+}
+
+/* example: <span class="obfuscate">moc.liamg@voksiluy</span>*/
+
+/* End Protect e-mail */

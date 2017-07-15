@@ -1,79 +1,10 @@
-.horizontal-menu a { text-decoration: none; color: #999; }
-.horizontal-menu a:hover { text-decoration: underline; }
-
-.horizontal-menu p, .horizontal-menu ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-.horizontal-menu ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
-.horizontal-menu ul li { display: inline; margin-right: 20px; }
-footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
-
-/* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
-ul.posts li { list-style: none; }
-
-img {
-	max-width: 100%;
+.container {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
 }
-
-/* Table styling */
-
-.markdown-body table th,
-.markdown-body table td {
-  padding: 0px;
-  padding-right: 13px;
-  border: 0px solid #ddd;
-  vertical-align: top;
-}
-
-.markdown-body table tr {
-  background-color: #fff;
-  border-top: 0px solid #ccc;
-}
-
-.markdown-body table tr:nth-child(2n) {
-  background-color: #fff;
-}
-
-td:first-child {
-    min-width: 150px;
-}
-
-/* <span class='h2'>text</span> */
-/*.h2 {
-    padding-bottom: 0.3em;
-    font-size: 1.5em;
-    margin-top: 24px;
-    margin-bottom: 16px;
-    font-weight: 600;
-    line-height: 1.25;
-}*/
-
-/* END Table styling */
-
-/* Print Styles */
-@media print {
-    .container > nav, .container > footer {
-        display: none;
-    }
-}
-
-.markdown-body p {
-    margin-top: 10px;
-    margin-bottom: 3px;
-}
-
-.markdown-body ul,
-.markdown-body ol {
-  margin-top: 0;
-  margin-bottom: 0px;
-}
-
-#my-photo {
-    height: 100px;
-    float: left;
-    margin-right: 16px;
-    margin-top: 10px;
-}
-
-.clear {
-    clear: both;
+.markdown-body {
+    margin-bottom: 10px;
 }
