@@ -37,7 +37,7 @@ td:first-child {
 
 .markdown-body p {
     margin-top: 10px;
-    margin-bottom: 3px;
+    margin-bottom: 0px;
 }
 
 .markdown-body ul,
@@ -63,7 +63,11 @@ td:first-child {
 
 /* End Float text around image */
 
+/* Same size headers */
+
 .markdown-body h3 {
     text-transform: uppercase;
     font-size: 1em;
 }
+
+/* End Same size headers */
