@@ -3,7 +3,7 @@
 <img id="my-photo" src="/img/my_photo2.jpg"/>
 
 *Dnipro, 066-354-68-22*  
-*[yuliskov@gmail.com](mailto:yuliskov@gmail.com)*  
+*[<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})*  
 *[github.com/yuliskov](https://github.com/yuliskov)*  
 *[stackoverflow.com/users/1279056/yuliskov](https://stackoverflow.com/users/1279056/yuliskov)*  
 *[linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)*  

@@ -6,12 +6,16 @@ author: Yurii Lyskov
 logo: /img/my_photo2.png
 # End SEO tags
 name: Yurii Liskov
+email: yuliskov@gmail.com
+email_obf: moc.liamg@voksiluy
+root_url: https://yuliskov.github.io
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-email-protect
 languages: ["en", "ru"]
 exclude:
   - site_*.bat
@@ -22,5 +26,3 @@ exclude:
   - "*.gen"
 exclude_from_localizations:
   - _posts
-root_url: https://yuliskov.github.io
-email: yuliskov@gmail.com
