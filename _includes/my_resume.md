@@ -60,13 +60,13 @@ Bunch of tweaks for rt-n56u (Padavan) router's firmware ([http://prometheus.frei
 - Plain JavaScript, jQuery, Bash
 
 **Movian, 2016-2017, Code Contributor**  
-Movian is popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
+Popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
 - Adopt Movian for Android tv boxes' remote controller
 - Fix crashes when app moves into background
 - Android SDK, native libs
 
 **Crosswalk, 2016-2017, Code Contributor**  
-Crosswalk is WebView replacement for Android ([https://crosswalk-project.org](https://crosswalk-project.org))
+Android WebView replacement ([https://crosswalk-project.org](https://crosswalk-project.org))
 - Improve armv8l architecture detection
 - Android SDK
 
@@ -87,6 +87,7 @@ Showcase of popular technologies that used with React ([http://yuliskov.github.i
 - Unit testing with Jest/Enzyme
 - Localization via React Intl
 - LocalStorage middleware
+- Conforms Redux Ducks specs
 
 ### Education
 
