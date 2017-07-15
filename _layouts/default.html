@@ -5,6 +5,9 @@
     <title>{% t page.title %} - {{ site.name }}</title>
 
     {% include github-theme.html %}
+    {% for theme in layout.themes %}
+        {% include {{theme}} %}
+    {% endfor %}
     {% seo %}
 </head>
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 title: cv
 namespace: cv
 permalink: /cv/
