@@ -20,8 +20,8 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 ### Skills
 
 - **Programming**: Java, JavaScript, Python, SQL, C
-- **Java**: Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, Android SDK, Gradle, Maven
-- **JavaScript**: ReactJS, Redux, Backbone.js, jQuery, SOAP, REST
+- **Java**: Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, TestNG, Android SDK, Gradle, Maven
+- **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery, SOAP, REST
 - **Python**: Django
 - **Markup**: Twitter Bootstrap, HTML, CSS, Stylus
 - **Design**: OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
@@ -38,30 +38,29 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Windows, Linux
 
 **LeanKey Keyboard, 2016-..., Developer**  
-Keyboard for Android tv boxes ([https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard))
+Keyboard for Android TV boxes ([https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard))
 - Adopt to popular tv boxes like MiBox, FireTV etc
 - Provide special remote shortcuts (e.g. language switch)
 - Add multi-language support
 - Android SDK, InputMethodService
 
 **Smart YouTube TV, 2016-..., Developer**  
-YouTube client for Android tv boxes ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
+YouTube client for Android TV boxes ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
 - Develop object-oriented architecture
-- Adopt to popular tv boxes like MiBox, FireTV etc
+- Adopt to popular boxes like MiBox, FireTV etc
 - Provide tests
-- Android SDK, WebView, Crosswalk, JUnit, browser scripts
+- Android SDK, WebView, Crosswalk, JUnit, TestNG, browser scripts
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for router's firmware rt-n56u (aka Padavan) ([http://prometheus.freize.net](http://prometheus.freize.net))
 - Add theme switch feature for web-ui
 - Support number of third-party themes
-- Develop Local Entware plugin
-- Support Tor plugin
+- Support Tor plugin, Entware plugin
 - Plain JavaScript, jQuery, Bash
 
 **Movian, 2016-2017, Code Contributor**  
 Popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
-- Adopt Movian for Android tv boxes' remote controller
+- Adopt to MiBox remote controller
 - Fix crashes when app moves into background
 - Android SDK, native libs
 
