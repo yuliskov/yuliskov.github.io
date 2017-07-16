@@ -26,7 +26,9 @@ td:first-child {
 /* Print Styles */
 
 @media print {
-    .container > nav, .container > footer {
+    .forkme,
+    .container > nav,
+    .container > footer {
         display: none;
     }
 }
