@@ -4,9 +4,9 @@
 
 Dnipro, 066-354-68-22  
 [<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})  
+[linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)  
 [github.com/yuliskov](https://github.com/yuliskov)  
 [stackoverflow.com/users/1279056/yuliskov](https://stackoverflow.com/users/1279056/yuliskov)  
-[linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)  
 
 <div class="clear"></div>
 
@@ -52,7 +52,7 @@ YouTube client for Android tv boxes ([https://smartyoutubetv.github.io](https://
 - Android SDK, WebView, Crosswalk, JUnit, browser scripts
 
 **PROMETHEUS, 2015-..., Code Contributor**  
-Bunch of tweaks for rt-n56u (Padavan) router's firmware ([http://prometheus.freize.net](http://prometheus.freize.net))
+Custom tweaks for router's firmware rt-n56u (aka Padavan) ([http://prometheus.freize.net](http://prometheus.freize.net))
 - Add theme switch feature for web-ui
 - Support number of third-party themes
 - Develop Local Entware plugin
