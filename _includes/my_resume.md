@@ -38,7 +38,7 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 - Windows, Linux
 
 **LeanKey Keyboard, 2016-..., Developer**  
-Keyboard for Android TV boxes (GPlay) ([http://tinyurl.com/leankeykeyboard](http://tinyurl.com/leankeykeyboard))
+Keyboard for Android TV boxes (GPlay: [http://tinyurl.com/leankeykeyboard](http://tinyurl.com/leankeykeyboard))
 - Adopt to popular tv boxes like MiBox, FireTV etc
 - Provide special remote shortcuts (e.g. language switch)
 - Add multi-language support
