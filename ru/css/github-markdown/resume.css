@@ -66,8 +66,10 @@ td:first-child {
 /* Same size headers */
 
 .markdown-body h3 {
-    text-transform: uppercase;
-    font-size: 1em;
+    /*text-transform: uppercase;*/
+    font-size: 1.1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.3em;
 }
 
 /* End Same size headers */
