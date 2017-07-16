@@ -20,7 +20,7 @@ Currently, I focused primarily on Java and related technologies as well as on Fr
 ### Skills
 
 - **Programming**: Java, JavaScript, Python, SQL, C
-- **Java**: Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, TestNG, Android SDK, Gradle, Maven
+- **Java**: Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, Hamcrest, Android SDK, Gradle, Maven
 - **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery, SOAP, REST
 - **Python**: Django
 - **Markup**: Twitter Bootstrap, HTML, CSS, Stylus
@@ -49,7 +49,7 @@ YouTube client for Android TV boxes ([https://smartyoutubetv.github.io](https://
 - Develop object-oriented architecture
 - Adopt to popular boxes like MiBox, FireTV etc
 - Provide tests
-- Android SDK, WebView, Crosswalk, JUnit, TestNG, browser scripts
+- Android SDK, WebView, Crosswalk, JUnit, Hamcrest, browser scripts
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for router's firmware rt-n56u (aka Padavan) ([http://prometheus.freize.net](http://prometheus.freize.net))
