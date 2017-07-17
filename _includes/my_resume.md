@@ -15,6 +15,7 @@ Dnipro, 066-354-68-22
 ### Summary
 
 I'm a system administrator with six years of experience plus more than five years of programming.  
+This includes development self-made projects, code contribution, and various bug reporting.  
 Currently, I focused primarily on Java and related technologies as well as on Front-end development fields.
 
 ### Skills
