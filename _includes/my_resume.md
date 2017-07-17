@@ -14,7 +14,7 @@ Dnipro, 066-354-68-22
 
 ### Summary
 
-I'm a system administrator with six years of experience plus more than five years of amateur programming.  
+I'm a system administrator with six years of experience plus more than five years of programming.  
 Currently, I focused primarily on Java and related technologies as well as on Front-end development fields.
 
 ### Skills
@@ -52,7 +52,7 @@ YouTube client for Android TV boxes ([https://smartyoutubetv.github.io](https://
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, browser scripts
 
 **PROMETHEUS, 2015-..., Code Contributor**  
-Custom tweaks for router's firmware rt-n56u (aka Padavan) ([http://prometheus.freize.net](http://prometheus.freize.net))
+Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.freize.net](http://prometheus.freize.net))
 - Add theme switch feature for web-ui
 - Support number of third-party themes
 - Support Tor plugin, Entware plugin
