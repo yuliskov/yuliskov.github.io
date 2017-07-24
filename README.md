@@ -4,8 +4,10 @@ This site uses Jekyll for content generation.
 
 ## Notes
 
+- Use sass (see css and _sass folder)
 - Localization plugin: jekyll-multiple-languages-plugin
 - SEO plugins: jekyll-seo-tag, jekyll-sitemap
+- Scripts (*.bat) for publishing site on github
 
 ## Running Example
 
