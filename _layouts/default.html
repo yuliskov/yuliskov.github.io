@@ -4,10 +4,14 @@
 <head>
     <title>{% t page.title %} - {{ site.name }}</title>
 
-    {% include github-theme.html %}
-    {% for theme in layout.themes %}
-        {% include {{theme}} %}
-    {% endfor %}
+    {% if layout.themes.size > 0 %}
+        {% for theme in layout.themes %}
+            {% include {{theme}} %}
+        {% endfor %}
+    {% else %}
+        {% include theme-main.html %}
+    {% endif %}
+
     {% seo %}
 </head>
 

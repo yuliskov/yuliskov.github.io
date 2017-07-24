@@ -1,3 +1,7 @@
+/* founded here: https://github.com/sindresorhus/github-markdown-css */
+
+@import "github-markdown";
+
 .container {
     box-sizing: border-box;
     min-width: 200px;
@@ -8,3 +12,4 @@
 .markdown-body {
     margin-bottom: 10px;
 }
+

@@ -12,17 +12,19 @@ root_url: https://yuliskov.github.io
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
-  - jekyll-multiple-languages-plugin
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-email-protect
+    - jekyll-multiple-languages-plugin
+    - jekyll-seo-tag
+    - jekyll-sitemap
+    - jekyll-email-protect
 languages: ["en", "ru"]
 exclude:
-  - site_*.bat
-  - bak_*
-  - notes.txt
-  - "*.bak*"
-  - "*.tmp*"
-  - "*.gen"
+    - site_*.bat
+    - bak_*
+    - notes.txt
+    - "*.bak*"
+    - "*.tmp*"
+    - "*.gen"
 exclude_from_localizations:
-  - _posts
+    - _posts
+sass:
+    style: compressed
