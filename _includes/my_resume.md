@@ -38,19 +38,19 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 - Handle network related things like printing, sharing etc
 - Windows, Linux
 
-**LeanKey Keyboard, 2016-..., Developer**  
-Keyboard for Android TV boxes (GPlay: [http://tinyurl.com/leankeykeyboard](http://tinyurl.com/leankeykeyboard))
-- Adopt to popular tv boxes like MiBox, FireTV etc
-- Provide special remote shortcuts (e.g. language switch)
-- Add multi-language support
-- Android SDK, InputMethodService
-
 **Smart YouTube TV, 2016-..., Developer**  
 YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
 - Develop object-oriented architecture
 - Adopt to popular boxes like MiBox, FireTV etc
 - Provide tests
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, browser scripts
+
+**LeanKey Keyboard, 2016-..., Developer**  
+Keyboard for Android TV boxes (GPlay: [http://tinyurl.com/leankeykeyboard](http://tinyurl.com/leankeykeyboard))
+- Adopt to popular tv boxes like MiBox, FireTV etc
+- Provide special remote shortcuts (e.g. language switch)
+- Add multi-language support
+- Android SDK, InputMethodService
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.freize.net](http://prometheus.freize.net))
