@@ -2,7 +2,7 @@
 
 <img id="my-photo" src="/img/my_photo2.jpg"/>
 
-Dnipro, 066-354-68-22  
+Dnipro, <span class="obfuscate">{{site.phone_obf}}</span>  
 [<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})  
 [linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)  
 [github.com/yuliskov](https://github.com/yuliskov)  
