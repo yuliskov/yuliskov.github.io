@@ -46,7 +46,7 @@ Keyboard for Android TV boxes (GPlay: [http://tinyurl.com/leankeykeyboard](http:
 - Android SDK, InputMethodService
 
 **Smart YouTube TV, 2016-..., Developer**  
-YouTube client for Android TV boxes ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
+YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
 - Develop object-oriented architecture
 - Adopt to popular boxes like MiBox, FireTV etc
 - Provide tests
