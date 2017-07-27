@@ -33,11 +33,6 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 
 ### Experience
 
-**DRPSK, 2010-2016, System Administrator**
-- Support large number of PC
-- Handle network related things like printing, sharing etc
-- Windows, Linux
-
 **Smart YouTube TV, 2016-..., Developer**  
 YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
 - Develop object-oriented architecture
@@ -59,13 +54,18 @@ Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.frei
 - Support Tor plugin, Entware plugin
 - Plain JavaScript, jQuery, Bash
 
-**Movian, 2016-2017, Code Contributor**  
+**DRPSK, 2010-2016, System Administrator**
+- Support large number of PC
+- Handle network related things like printing, sharing etc
+- Windows, Linux
+
+**Movian, 2016, Code Contributor**  
 Popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
 - Adopt to MiBox remote controller
 - Fix crashes when app moves into background
 - Android SDK, native libs
 
-**Crosswalk, 2016-2017, Code Contributor**  
+**Crosswalk, 2016, Code Contributor**  
 Android WebView replacement ([https://crosswalk-project.org](https://crosswalk-project.org))
 - Improve armv8l architecture detection
 - Android SDK
@@ -81,7 +81,7 @@ Personal site that serves as portfolio for graphic artist ([http://nikitaliskov.
 - Develop overall look
 - Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
-**React Hot Usage Example, 2017-..., Developer**  
+**React Hot Usage Example, 2017, Developer**  
 Showcase of popular technologies that used with React ([http://yuliskov.github.io/react-localtodos](http://yuliskov.github.io/react-localtodos))
 - React/Redux/Webpack usage
 - Unit testing with Jest/Enzyme
