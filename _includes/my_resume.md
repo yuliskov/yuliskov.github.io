@@ -34,7 +34,7 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 ### Experience
 
 **Smart YouTube TV, 2016-..., Developer**  
-YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
+Popular YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
 - Develop object-oriented architecture
 - Adopt to popular boxes like MiBox, FireTV etc
 - Provide tests
