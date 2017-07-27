@@ -2,7 +2,7 @@
 
 <img id="my-photo" src="/img/my_photo2.jpg"/>
 
-Dnipro, <span class="obfuscate">{{site.phone_obf}}</span>  
+Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | encode_email}})  
 [<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})  
 [linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)  
 [github.com/yuliskov](https://github.com/yuliskov)  
