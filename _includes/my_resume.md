@@ -24,11 +24,10 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 - **Java**: Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, Hamcrest, Android SDK, Gradle, Maven
 - **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery, SOAP, REST
 - **Python**: Django
-- **Markup**: Twitter Bootstrap, HTML, CSS, Stylus
+- **Markup**: Twitter Bootstrap, HTML, CSS, SASS, SCSS, Stylus
 - **Design**: OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
 - **Networking**: TCP/IP, OSI, HTTP
-- **Scripting**: Bash, Batch
-- **Other**: Git, SVN, IntelliJ IDEA
+- **Other**: Bash, Batch, Git, SVN, IntelliJ IDEA
 - **Languages**: English (intermediate), Ukrainian (native)
 
 ### Experience
