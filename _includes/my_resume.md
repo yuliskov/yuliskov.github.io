@@ -21,7 +21,7 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 ### Skills
 
 - **Programming**: Java, JavaScript, Python, SQL, C
-- **Java**: Android SDK, Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, Hamcrest
+- **Java**: Android SDK, Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit/TestNG, Hamcrest
 - **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery
 - **Python**: Django
 - **Markup**: Twitter Bootstrap, HTML, CSS, SASS, SCSS, Stylus
