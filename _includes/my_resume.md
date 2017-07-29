@@ -21,13 +21,13 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 ### Skills
 
 - **Programming**: Java, JavaScript, Python, SQL, C
-- **Java**: Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, Hamcrest, Android SDK, Gradle, Maven
-- **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery, SOAP, REST
+- **Java**: Android SDK, Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit, Hamcrest
+- **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery
 - **Python**: Django
 - **Markup**: Twitter Bootstrap, HTML, CSS, SASS, SCSS, Stylus
 - **Design**: OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
-- **Networking**: TCP/IP, OSI, HTTP
-- **Other**: Bash, Batch, Git, SVN, IntelliJ IDEA
+- **Networking**: TCP/IP, OSI, HTTP, SOAP, REST
+- **Other**: Bash, Batch, Git, SVN, Gradle, Maven, IntelliJ IDEA
 - **Languages**: English (intermediate), Ukrainian (native)
 
 ### Experience
