@@ -26,9 +26,9 @@ Currently, I focused primarily on Java and related technologies as well as on fr
 - **Python**: Django
 - **Markup**: Twitter Bootstrap, HTML, CSS, Stylus
 - **Design**: OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
-- **Networking**: TCP/IP, OSI
+- **Networking**: TCP/IP, OSI, HTTP
 - **Scripting**: Bash, Batch
-- **VCS**: Git, SVN
+- **Other**: Git, SVN, IntelliJ IDEA
 - **Languages**: English (intermediate), Ukrainian (native)
 
 ### Experience
