@@ -9,7 +9,7 @@ name: Yurii Liskov
 email: yuliskov@gmail.com
 email_obf: moc.liamg@voksiluy
 phone: +380-66-354-6822
-phone_obf: 2286-453-66083+
+phone_obf: 2286-453-66-083+
 root_url: https://yuliskov.github.io
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
