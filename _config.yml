@@ -8,8 +8,8 @@ logo: /img/my_photo2.png
 name: Yurii Liskov
 email: yuliskov@gmail.com
 email_obf: moc.liamg@voksiluy
-phone: 066-354-68-22
-phone_obf: 22-86-453-660
+phone: +380-66-354-6822
+phone_obf: 2286-453-66083+
 root_url: https://yuliskov.github.io
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title

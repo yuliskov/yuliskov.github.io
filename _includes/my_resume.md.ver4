@@ -1,6 +1,6 @@
 ## **Yurii Lyskov**
 
-<img id="my-photo" src="/img/my_photo3.jpg"/>
+<img id="my-photo" src="/img/my_photo2.jpg"/>
 
 Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | encode_email}})  
 [<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})  
@@ -15,21 +15,21 @@ Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | e
 ### Summary
 
 I'm a system administrator with six years of experience plus more than five years of programming.  
-I have three years of experience with Java related techs and five years of JS.  
 This includes development self-made projects, code contribution, and various bug reporting.  
-Currently, I'm focused primarily on Java and related technologies as well as on front-end development fields.  
-Also, always ready to perform a test task.
+Currently, I focused primarily on Java and related technologies as well as on front-end development fields.  
+Also, I'm always ready to perform a test task.
 
 ### Skills
 
-- Java, JavaScript, Python, SQL, C, C++
-- Android SDK, Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit/TestNG, Hamcrest
-- ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery, Jekyll, Django
-- Twitter Bootstrap, HTML, CSS, Sass, SCSS, Stylus
-- OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
-- TCP/IP, OSI, HTTP, SOAP, REST, JSON, XML, YAML 
-- Bash, Batch, Git, SVN, Gradle, Maven, IntelliJ IDEA
-- English: fluent reading and writing skills, but spoken english needs more practice
+- **Programming**: Java, JavaScript, Python, SQL, C
+- **Java**: Android SDK, Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit/TestNG, Hamcrest
+- **JavaScript**: ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery
+- **Python**: Django
+- **Markup**: Twitter Bootstrap, HTML, CSS, SASS, SCSS, Stylus
+- **Design**: OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
+- **Networking**: TCP/IP, OSI, HTTP, SOAP, REST
+- **Other**: Bash, Batch, Git, SVN, Gradle, Maven, IntelliJ IDEA
+- **Languages**: English (intermediate), Ukrainian (native)
 
 ### Experience
 
