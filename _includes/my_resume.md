@@ -36,8 +36,8 @@ Also, always ready to perform a test task.
 **Smart YouTube TV, 2016-..., Developer**  
 Popular YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
 - develop simple browser engine
-- working with WebView and its implementations
-- filter media queries (OkHttp)
+- work with WebView and its alternatives
+- filter media queries
 - adopt to popular boxes like MiBox, FireTV etc
 - provide tests
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
