@@ -35,59 +35,61 @@ Also, always ready to perform a test task.
 
 **Smart YouTube TV, 2016-..., Developer**  
 Popular YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
-- Develop object-oriented architecture
-- Adopt to popular boxes like MiBox, FireTV etc
-- Provide tests
-- Android SDK, WebView, Crosswalk, JUnit, Hamcrest, browser scripts
+- develop simple browser engine
+- working with WebView and its implementations
+- filter media queries (OkHttp)
+- adopt to popular boxes like MiBox, FireTV etc
+- provide tests
+- Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 
 **LeanKey Keyboard, 2016-..., Developer**  
 Keyboard for Android TV boxes (GPlay: [http://tinyurl.com/leankeykeyboard](http://tinyurl.com/leankeykeyboard))
-- Adopt to popular tv boxes like MiBox, FireTV etc
-- Provide special remote shortcuts (e.g. language switch)
-- Add multi-language support
+- adopt to popular tv boxes like MiBox, FireTV etc
+- provide special remote shortcuts (e.g. language switch)
+- add multi-language support
 - Android SDK, InputMethodService
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.freize.net](http://prometheus.freize.net))
-- Add theme switch feature for web-ui
-- Support number of third-party themes
-- Support Tor plugin, Entware plugin
-- Plain JavaScript, jQuery, Bash
+- add theme switch feature for web-ui
+- support number of third-party themes
+- support Tor plugin, Entware plugin
+- jQuery, Bash
 
 **DRPSK, 2010-2016, System Administrator**
-- Support large number of PC
-- Handle network related things like printing, sharing etc
+- support large number of PC
+- handle network related things like printing, sharing etc
 - Windows, Linux
 
 **Movian, 2016, Code Contributor**  
 Popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
-- Adopt to MiBox remote controller
-- Fix crashes when app moves into background
+- adopt to MiBox remote controller
+- fix crashes when app moves into background
 - Android SDK, native libs
 
 **Crosswalk, 2016, Code Contributor**  
 Android WebView replacement ([https://crosswalk-project.org](https://crosswalk-project.org))
-- Improve armv8l architecture detection
+- improve armv8l architecture detection
 - Android SDK
 
 **Gnome-Commander, 2012-2014, Code Contributor**  
 Two panel file manager for GNOME desktop ([https://gcmd.github.io](https://gcmd.github.io))  
-- Implement multi-tab interface
+- implement multi-tab interface
 - GNOME libs
 
 **ArtPortfolio, 2013-2014, Developer**  
 Personal site that serves as portfolio for graphic artist ([http://nikitaliskov.com](http://nikitaliskov.com))
-- Develop front-end and back-end parts
-- Develop overall look
+- develop front-end and back-end parts
+- develop overall look
 - Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
 **React Hot Usage Example, 2017, Developer**  
 Showcase of popular technologies that used with React ([http://yuliskov.github.io/react-localtodos](http://yuliskov.github.io/react-localtodos))
-- React/Redux/Webpack usage
-- Unit testing with Jest/Enzyme
-- Localization via React Intl
-- LocalStorage middleware
-- Conforms Redux Ducks specs
+- use React/Redux/Webpack
+- unit tests with Jest/Enzyme
+- localization via React Intl
+- use LocalStorage middleware
+- conforms Redux Ducks specs
 
 ### Education
 
@@ -99,5 +101,5 @@ Electrical Engineer
 
 ### Interests
 
-- Digg into the Linux distros like Gentoo, Debian, Linux Mint, Ubuntu
-- Decompile and hack Android apps, edit Dalvik byte-code
+- digg into the Linux distros like Gentoo, Debian, Linux Mint, Ubuntu
+- decompile and hack Android apps, edit Dalvik byte-code
