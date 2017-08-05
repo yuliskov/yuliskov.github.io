@@ -10,11 +10,11 @@ Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | e
 
 <div class="clear"></div>
 
-### Full Stack Developer
+### Full-Stack Developer
 
 ### Objective
 
-Make money for the company. Find place where I can apply my skills. Improve my skills over time.
+Make value for the company where I intend to work. Find a place where I can apply my skills and improve them over time.
 
 ### Summary
 
