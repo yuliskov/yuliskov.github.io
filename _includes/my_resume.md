@@ -21,8 +21,8 @@ Seeking a position of Full-Stack Developer where I can maximize my skills and im
 I'm a system administrator with six years of experience plus more than five years of programming.  
 I have three years of experience with Java related techs and five years of JS.  
 This includes development self-made projects, code contribution, and various bug reporting.  
-Currently, I'm focused primarily on Java and related technologies as well as on front-end development fields.  
-Also, always ready to perform a test task.
+Currently, I'm focused primarily on Java and related technologies as well as on front-end development fields.
+Note for HR: feel free to submit any test task.  
 
 ### Skills
 
