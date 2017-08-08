@@ -14,7 +14,7 @@ Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | e
 
 ### Objective
 
-Find a company where I can apply my skills and improve them over time.
+Seeking a position of Full-Stack Developer where I can maximize my skills and improve them over time.
 
 ### Summary
 
