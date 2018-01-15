@@ -2,7 +2,7 @@
 
 <img id="my-photo" src="/img/my_photo3.jpg"/>
 
-Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | encode_email}}) (phone, Telegram)  
+Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | encode_email}})  
 [<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})  
 [linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)  
 [github.com/yuliskov](https://github.com/yuliskov)  
@@ -29,7 +29,7 @@ Note for HR: feel free to submit any test task.
 - Java, JavaScript, Python, SQL, C, C++
 - Android SDK, Spring Boot, Spring MVC, Spring Data, JPA, Hibernate, JUnit/TestNG, Hamcrest
 - ReactJS, Redux, Jest, Enzyme, Backbone.js, jQuery, Jekyll, Django
-- Twitter Bootstrap, HTML, CSS, Sass, SCSS, Stylus
+- Bootstrap, HTML, CSS, Sass, SCSS, Stylus, Jekyll, Markdown
 - OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
 - TCP/IP, OSI, HTTP, SOAP, REST, JSON, XML, YAML 
 - Bash, Batch, Git, SVN, Gradle, Maven, IntelliJ IDEA
@@ -38,7 +38,7 @@ Note for HR: feel free to submit any test task.
 ### Experience
 
 **Smart YouTube TV, 2016-..., Developer**  
-Popular YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV))
+YouTube client for Android-based set-top boxes and TVs ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
 - develop simple browser engine
 - work with WebView and its alternatives
 - filter media queries
@@ -47,11 +47,16 @@ Popular YouTube client for Android TV boxes ([https://github.com/yuliskov/SmartY
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 
 **LeanKey Keyboard, 2016-..., Developer**  
-Keyboard for Android TV boxes (GPlay: [http://tinyurl.com/leankeykeyboard](http://tinyurl.com/leankeykeyboard))
+Keyboard for Android TV boxes ([Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard))
 - adopt to popular tv boxes like MiBox, FireTV etc
 - provide special remote shortcuts (e.g. language switch)
 - add multi-language support
 - Android SDK, InputMethodService
+
+**Couple of the landing pages for my home-projects, 2016-..., Developer**  
+Examples: [https://nikitaliskov.github.io](https://nikitaliskov.github.io), [https://smartyoutubetv.github.io](https://smartyoutubetv.github.io)
+- coding and HTML markup
+- Jekyll, Liquid, Markdown, HTML, CSS, Sass, JavaScript
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.freize.net](http://prometheus.freize.net))
@@ -81,11 +86,12 @@ Two panel file manager for GNOME desktop ([https://gcmd.github.io](https://gcmd.
 - implement multi-tab interface
 - GNOME libs
 
-**ArtPortfolio, 2013-2014, Developer**  
-Personal site that serves as portfolio for graphic artist ([http://nikitaliskov.com](http://nikitaliskov.com))
+**ArtPortfolio, 2013-..., Developer**  
+Personal site that serves as a portfolio for the visual artist ([http://nikitaliskov.com](http://nikitaliskov.com))
 - develop front-end and back-end parts
 - develop overall look
-- Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
+- Jekyll, Liquid, Markdown, HTML, CSS, Sass, JavaScript
+- old set: Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
 **React Hot Usage Example, 2017, Developer**  
 Showcase of popular technologies that used with React ([http://yuliskov.github.io/react-localtodos](http://yuliskov.github.io/react-localtodos))
