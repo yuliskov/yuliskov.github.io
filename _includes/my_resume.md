@@ -10,7 +10,7 @@ Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | e
 
 <div class="clear"></div>
 
-### Full-Stack Developer
+### Android Developer / Full-Stack Developer
 
 ### Objective
 
@@ -18,7 +18,7 @@ Seeking a position of Full-Stack Developer where I can maximize my skills and im
 
 ### Summary
 
-I'm a system administrator with six years of experience plus more than five years of programming.  
+Hello. I'm a system administrator with six years of experience plus more than five years of programming.  
 I have three years of experience with Java related techs and five years of JS.  
 This includes development self-made projects, code contribution, and various bug reporting.  
 Currently, I'm focused primarily on Java and related technologies as well as on front-end development fields.  
@@ -33,7 +33,7 @@ Note for HR: feel free to submit any test task.
 - OOA/D, GoF patterns, TDD, UML, GRASP, SOLID, ACID, IoC, MVC
 - TCP/IP, OSI, HTTP, SOAP, REST, JSON, XML, YAML 
 - Bash, Batch, Git, SVN, Gradle, Maven, IntelliJ IDEA
-- English: fluent reading and writing skills, but spoken english needs more practice
+- English: fluent reading and writing skills, but spoken English needs more practice
 
 ### Experience
 
@@ -65,11 +65,6 @@ Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.frei
 - support Tor plugin, Entware plugin
 - jQuery, Bash
 
-**DRPSK, 2010-2016, System Administrator**
-- support large number of PC
-- handle network related things like printing, sharing etc
-- Windows, Linux
-
 **Movian, 2016, Code Contributor**  
 Popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
 - adopt to MiBox remote controller
@@ -93,17 +88,14 @@ Personal site that serves as a portfolio for the visual artist ([http://nikitali
 - Jekyll, Liquid, Markdown, HTML, CSS, Sass, JavaScript
 - old set: Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
 
-**React Hot Usage Example, 2017, Developer**  
-Showcase of popular technologies that used with React ([http://yuliskov.github.io/react-localtodos](http://yuliskov.github.io/react-localtodos))
-- use React/Redux/Webpack
-- unit tests with Jest/Enzyme
-- localization via React Intl
-- use LocalStorage middleware
-- conforms Redux Ducks specs
+**DRPSK, 2010-2016, System Administrator**
+- support large number of PC
+- handle network related things like printing, sharing etc
+- Windows, Linux
 
 ### Education
 
-**State University of Telecommunications (DUT), 2008-2012, Software Engineering**  
+**State University of Telecommunications (DUT), 2009-2012, Software Engineering**  
 Bachelor of Software Engineering
 
 **Instrumentation Engineering College of Dnipro (DRPSK), 2005-2008, Electrical Equipment Manufacturing**  
