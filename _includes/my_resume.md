@@ -39,10 +39,10 @@ Note for HR: feel free to submit any test task.
 
 **Smart YouTube TV, 2016-..., Developer**  
 YouTube client for Android-based set-top boxes and TVs ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
+- adopt to popular boxes like MiBox, FireTV etc
 - develop simple browser engine
 - work with WebView and its alternatives
 - filter media queries
-- adopt to popular boxes like MiBox, FireTV etc
 - provide tests
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 
