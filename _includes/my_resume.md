@@ -14,15 +14,18 @@ Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | e
 
 ### Objective
 
-Seeking a position of Full-Stack Developer where I can maximize my skills and improve them over time.
+Seeking a position where I can maximize my skills and improve them over time.
 
 ### Summary
 
-Hello. I'm a system administrator with six years of experience plus more than five years of programming.  
-I have three years of experience with Java related techs and five years of JS.  
-This includes development self-made projects, code contribution, and various bug reporting.  
-Currently, I'm focused primarily on Java and related technologies as well as on front-end development fields.  
-Note for HR: feel free to submit any test task.  
+Hi, I'm indie Android developer and a bit web developer.  
+I've developed a couple of successful projects.  
+One of them is an alternative YouTube client for set-top boxes.  
+Another successful project example is keyboard developed specially for set-top boxes.  
+There are also number of attempts to work with web-stack.  
+One such example is web site that serves as graphic portfolio.  
+I'm constantly contributing to various open source projects.  
+In the past I was working as a system administrator.
 
 ### Skills
 
