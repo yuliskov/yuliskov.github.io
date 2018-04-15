@@ -41,7 +41,7 @@ In the past I was working as a system administrator.
 ### Experience
 
 **ad notam AG, 2017-..., Developer**  
-Mirror TV - mix of the mirror and the regular tv ([www.ad-notam.com](https://www.ad-notam.com))
+Mirror TV - mix of the mirror and the regular tv ([https://www.ad-notam.com](https://www.ad-notam.com))
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 - Optimize existing software for Mirror TV devices
 - Optimize SmartYouTubeTV for Mirror TV devices
