@@ -40,33 +40,27 @@ In the past I was working as a system administrator.
 
 ### Experience
 
-**ad notam AG, 2017-..., Developer**  
-Mirror TV - mix of the mirror and the regular tv ([https://www.ad-notam.com](www.ad-notam.com))
-- Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
-- Optimize existing software for Mirror TV devices
-- Optimize SmartYouTubeTV for Mirror TV devices
-
 **Smart YouTube TV, 2016-..., Developer**  
 YouTube client for Android-based set-top boxes and TVs ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
-- Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 - Adopt to popular boxes like MiBox, FireTV etc
 - Develop simple browser engine
 - Work with WebView and its alternatives
 - Filter media queries
 - Provide tests
+- Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 
 **LeanKey Keyboard, 2016-..., Developer**  
 Keyboard for Android TV boxes ([Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard))
-- Android SDK, InputMethodService
 - Adopt to popular tv boxes like MiBox, FireTV etc
 - Provide special remote shortcuts (e.g. language switch)
 - Add multi-language support
+- Android SDK, InputMethodService
 
 **Couple of web-sites for the various projects, 2016-..., Developer**  
 Examples: [https://nikitaliskov.github.io](https://nikitaliskov.github.io), [https://smartyoutubetv.github.io](https://smartyoutubetv.github.io)
+- Coding and HTML markup
 - Jekyll, Liquid, Markdown, HTML, CSS, Sass, JavaScript
 - Previously: Spring Framework, REST, Backbone.js
-- Coding and HTML markup
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.freize.net](http://prometheus.freize.net))
@@ -105,8 +99,8 @@ Personal site that serves as a portfolio for the visual artist ([http://nikitali
 
 ### Education
 
-**State University of Telecommunications (DUT), 2009-2012, Telecommunications Systems and Networks**  
-Bachelor of Telecommunication Engineering
+**State University of Telecommunications (DUT), 2009-2012, Software Engineering**  
+Bachelor of Software Engineering
 
 **Instrumentation Engineering College of Dnipro (DRPSK), 2005-2008, Electrical Equipment Manufacturing**  
 Electrical Engineer
