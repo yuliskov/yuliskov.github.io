@@ -2,7 +2,7 @@
 
 <img id="my-photo" src="/img/my_photo3.jpg"/>
 
-Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | encode_email}})  
+Dnipro, [<span class="obfuscate">{{site.phone_obf}}</span>](tel:{{site.phone | encode_email}}) (Telegram)  
 [<span class="obfuscate">{{site.email_obf}}</span>](mailto:{{site.email | encode_email}})  
 [linkedin.com/in/yuliskov](http://www.linkedin.com/in/yuliskov)  
 [github.com/yuliskov](https://github.com/yuliskov)  
@@ -40,7 +40,7 @@ In the past I was working as a system administrator.
 
 ### Experience
 
-**ad notam AG, 2017-..., Developer**  
+**ad notam AG, 2017-..., Freelance Developer**  
 Mirror TV - mix of the mirror and the regular tv ([https://www.ad-notam.com](https://www.ad-notam.com))
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 - Optimize existing software for Mirror TV devices
