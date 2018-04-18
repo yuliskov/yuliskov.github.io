@@ -46,7 +46,7 @@ Mirror TV - mix of the mirror and the regular tv ([https://www.ad-notam.com](htt
 - Optimize existing software for Mirror TV devices
 - Optimize SmartYouTubeTV for Mirror TV devices
 
-**Smart YouTube TV, 2016-..., Developer**  
+**Smart YouTube TV, 2016-..., Android Developer**  
 YouTube client for Android-based set-top boxes and TVs ([https://smartyoutubetv.github.io](https://smartyoutubetv.github.io))
 - Android SDK, WebView, Crosswalk, JUnit, Hamcrest, OkHttp
 - Adopt to popular boxes like MiBox, FireTV etc
@@ -55,14 +55,14 @@ YouTube client for Android-based set-top boxes and TVs ([https://smartyoutubetv.
 - Filter media queries
 - Provide tests
 
-**LeanKey Keyboard, 2016-..., Developer**  
+**LeanKey Keyboard, 2016-..., Android Developer**  
 Keyboard for Android TV boxes ([Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard))
 - Android SDK, InputMethodService
 - Adopt to popular tv boxes like MiBox, FireTV etc
 - Provide special remote shortcuts (e.g. language switch)
 - Add multi-language support
 
-**Couple of web-sites for the various projects, 2016-..., Developer**  
+**Couple of web-sites for the various projects, 2016-..., Web Developer**  
 Examples: [https://nikitaliskov.github.io](https://nikitaliskov.github.io), [https://smartyoutubetv.github.io](https://smartyoutubetv.github.io)
 - Jekyll, Liquid, Markdown, HTML, CSS, Sass, JavaScript
 - Previously: Spring Framework, REST, Backbone.js
@@ -70,33 +70,33 @@ Examples: [https://nikitaliskov.github.io](https://nikitaliskov.github.io), [htt
 
 **PROMETHEUS, 2015-..., Code Contributor**  
 Custom tweaks for RT-N56U router's firmware aka Padavan ([http://prometheus.freize.net](http://prometheus.freize.net))
+- JavaScript, jQuery, Bash
 - Add theme switch feature for web-ui
 - Support number of third-party themes
 - Support Tor plugin, Entware plugin
-- jQuery, Bash
 
 **Movian, 2016, Code Contributor**  
 Popular media center app for Android/Windows/Linux/PS3 ([https://movian.tv](https://movian.tv))
+- Android SDK, native libs
 - Adopt to MiBox remote controller
 - Fix crashes when app moves into background
-- Android SDK, native libs
 
 **Crosswalk, 2016, Code Contributor**  
 Android WebView replacement ([https://crosswalk-project.org](https://crosswalk-project.org))
-- Improve armv8l architecture detection
 - Android SDK
+- Improve armv8l architecture detection
 
 **Gnome-Commander, 2012-2014, Code Contributor**  
 Two panel file manager for GNOME desktop ([https://gcmd.github.io](https://gcmd.github.io))  
-- Implement multi-tab interface
 - GNOME libs
+- Implement multi-tab interface
 
-**ArtPortfolio, 2013-..., Developer**  
+**ArtPortfolio, 2013-..., Web Developer**  
 Personal site that serves as a portfolio for the visual artist ([http://nikitaliskov.com](http://nikitaliskov.com))
-- Develop front-end and back-end parts
-- Develop overall look
 - Jekyll, Liquid, Markdown, HTML, CSS, Sass, JavaScript
 - Previously: Spring MVC, Spring Data, JUnit, Backbone.js, Bootstrap, jQuery
+- Develop front-end and back-end parts
+- Develop overall look
 
 **DRPSK, 2010-2016, System Administrator**
 - Support large number of PC
